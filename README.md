@@ -1,4 +1,4 @@
-# VideoStudio
+# videoStudio
 This developer focused guide will provide reference documentation, API recipes, and examples of how to build your own videoStudio solution with Kaltura. 
 
 The videoStudio is defined as a solution that allows a user to record, add text and animation to the video, and share the video in an intuitive easy to use UI/UX. The videoStudio aims to replace expensive production services for short form videos with a quick enterprise grade desktop application. Users will have the ability to craft professional looking videos that are enterprise compliant and on brand. 
