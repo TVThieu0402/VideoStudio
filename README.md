@@ -64,7 +64,7 @@ Kaltura offers a backend API service to combine (aka stitch) multiple entries in
 2. "Create a draft entry". This draft palceholder entry will be the new media that is the combined version of all the entries
 3. "Run Media Stitching BE service". This BE service will combine all the videos in sequential order 
 
-Media Stitching API and other related BE services can be found here: 
+Media Stitching API and other related BE services can be found here: MediaStitchingAPI.md
 
 ## Managing and Editing the Video
 
