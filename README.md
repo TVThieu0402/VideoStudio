@@ -1,5 +1,5 @@
 # VideoStudio
-A developer focused guide to integrating specific Kaltura components and APIs into your own application or site. This guide will provide reference documentation, API recipes, and examples of how to build your own videoStudio solution with Kaltura. 
+This developer focused guide will provide reference documentation, API recipes, and examples of how to build your own videoStudio solution with Kaltura. 
 
 The videoStudio is defined as a solution that allows a user to record, add text and animation to the video, and share the video in an intuitive easy to use UI/UX. The videoStudio aims to replace expensive production services for short form videos with a quick enterprise grade desktop application. Users will have the ability to craft professional looking videos that are enterprise compliant and on brand. 
 
@@ -14,6 +14,22 @@ Kaltura has many components across different use cases and industries. The archi
 * Producing the video
 * Managing and Editing the video
 * Sharing the video
+
+**List of referenced components and APIs powered by Kaltura**
+
+Components
+- Kaltura Editor App
+- Kaltura Recorder v2.0
+- Kaltura V7 Player
+- Kaltura Lottie Animation plugin
+- Kaltura Adobe After Affects plugin 
+
+APIs
+- Upload Media
+- Download Media
+- Update Media
+- Add Playlist
+- Update Playlist
 
 ## Sourcing the video
 Your videoStudio should offer 2 primary methods of sourcing their video. To record directly from within the application or to allow direct media uploads from within the application. 
@@ -37,7 +53,38 @@ Developer Guide to Kaltura media upload: https://developer.kaltura.com/workflows
 
 ## Producing the Video
 
+### Adobe After Effects Plugin
+### Kaltura Lottie Animation Plugin
+
 ## Managing and Editing the Video
+
+### Kaltura Editor App
+Kaltura offers the Editor Application component. It can be easily embedded within your videoStudio application. The Kaltura Editor App (aka "KEA") enables end-users to create video clips, Support for cue-points, captions and multi-stream content, Audio graph for detecting silent areas, Trim long videos cutout from the middle, Compatible with desktop and tablet browsers, Easy to use and accessibility minded, Customizable with CSS, Easy to integrate into any web-app using secure iframe API, Create and edit Interactive In-Video Quizzes, Use to set cue points for dynamic ads, Create hotspots overlays that drive action and more.
+
+<img width="485" height="266" alt="keascreenshot" src="https://github.com/user-attachments/assets/a813afa8-2cf0-474f-be42-cf40258892df" />
+
+Git: https://github.com/kaltura-vpaas/kaltura-editor-app-embed
+
+### Kaltura Media Update API
+to update the attributes of an existing media entry in Kaltura, you must use the media.update API action. This service allows you to modify properties such as the entry's title, description, tags, access control profiles, or category assignments.
+
+**Core Endpoint & Details**
+
+* HTTP Method: POST
+* Endpoint URL: https://www.kaltura.com/api_v3/service/media/action/update
+* Behavior: Only the specific properties you provide in the request payload will be modified; all other properties remain unchanged.
+
+**Required Request Parameters**
+
+When constructing the API body, you need to include the following core parameters:
+- entryId (string): The unique ID string of the Kaltura media asset you want to update.
+- mediaEntry (object): A KalturaMediaEntry object populated with the fields you wish to change. Common fields include:
+  - name: The title of the video.
+	- description: The description of the video.
+	- tags: A comma-separated string of keywords.
+	- categories: The categories the entry belongs to.
+
+Developer: https://developer.kaltura.com/console/service/media/action/updateContent
 
 ## Sharing the Video
 Kaltura offers several methods to share the video created within your videoStudio. A player embed component is the most common and flexible method to share the video. Kaltura also offers an API service to grab the source download file. 
@@ -55,4 +102,5 @@ Kaltura offers an API to grab the source video thru a download
 
 Knowledge Center: https://knowledge.kaltura.com/help/how-to-download-a-raw-file
 
+### MP4 Export Flat video
 
