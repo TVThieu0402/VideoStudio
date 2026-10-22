@@ -9,7 +9,7 @@ see https://developer.kaltura.com/api-docs/VPaaS-API-Getting-Started/Getting-Sta
 This guide assumes you are already familiar with authenticating to the Kaltura API and making calls.
 
 # videoStudio Architecture
-Kaltura has many components across different use cases and industries. The architecture and components referenced here are baseline recommendations to build your videoStudio. The baseline of a videoStudio should have the following capabilities at a high level:
+Kaltura has many embeddable components, API endpoints, integrations used across different use cases and industries. The architecture and tech stack referenced here are baseline recommendations to build your videoStudio. The baseline of a videoStudio should have the following capabilities at a high level:
 * Templates for your video
 * Sourcing the video
 * Producing the video
