@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pen</title>
+  </head>
+  <body>
+    <div id="player-placeholder" style="width: 100%; aspect-ratio: 16/9"></div>
+    <script type="text/javascript" src="https://api.nvq2.ovp.kaltura.com/p/23011/embedPlaykitJs/uiconf_id/25432932"></script>
+
+    <script>
+      (async function () {
+        window.individeoData = {
+          companyName: 'Tuyen Thieu', // ← Will override API value
+          openingMessage: 'Kaltura Entry Test!', // ← Will override Opening Message from API value
+          // These match API data (no override)
+          companyMainColor: '#BD0707',
+          companySecondaryColor: '#008200',
+        };
+
+        try {
+          // Setup player with minimal configuration
+          const config = {
+            targetId: 'player-placeholder',
+            provider: {
+              partnerId: 23011,
+              uiConfId: 25432932,
+              env: {
+                serviceUrl: 'https://api.nvq2.ovp.kaltura.com/api_v3',
+                cdnUrl: 'https://api.nvq2.ovp.kaltura.com',
+              }
+            },
+            log: {
+              level: 'DEBUG',
+            },
+            playback: {
+              autoplay: false,
+              streamPriority: [
+                {
+                  engine: 'html5',
+                  format: 'progressive'
+                }
+              ]
+            },
+            plugins: {
+              lottie: {},
+              bluerushAnalytics: {}
+            },
+          };
+
+          const player = KalturaPlayer.setup(config);
+
+          // Load the Kaltura entry
+          await player.loadMedia({ entryId: '0_70hbsfge' });
+        } catch (error) {
+          console.error('❌ Error during setup or loading:', error);
+        }
+      })();
+    </script>
+    
+  </body>
+</html>
