@@ -40,7 +40,7 @@ await player.loadMedia({ entryId: '1_xxxxxx' });
 
    
 
- 
+ HTML reference here: https://github.com/TVThieu0402/VideoStudio/blob/19ca80fca5e10a4c2fd6e2afc174bb5150bf3018/LottiePersonalization.html
 
  
 
