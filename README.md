@@ -40,6 +40,7 @@ Developer Guide to Kaltura media upload: https://developer.kaltura.com/workflows
 ## Managing and Editing the Video
 
 ## Sharing the Video
+Kaltura offers several methods to share the video created within your videoStudio. A player embed component is the most common and flexible method to share the video. Kaltura also offers an API service to grab the source download file. 
 ### Kaltura v7 Player Embed
 
 <img width="485" height="266" alt="playlist-up-next-ms" src="https://github.com/user-attachments/assets/a6edfbbb-ac4a-437e-a32d-9b74fd7209f9" />
