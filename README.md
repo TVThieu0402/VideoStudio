@@ -10,6 +10,7 @@ This guide assumes you are already familiar with authenticating to the Kaltura A
 
 # videoStudio Architecture
 Kaltura has many components across different use cases and industries. The architecture and components referenced here are baseline recommendations to build your videoStudio. The baseline of a videoStudio should have the following capabilities at a high level:
+* Templates for your video
 * Sourcing the video
 * Producing the video
 * Managing and Editing the video
@@ -28,9 +29,14 @@ APIs
 - Upload Media
 - Download Media
 - Update Media
+- List Media
 - Add Playlist
 - Update Playlist
-- Media Stitching API 
+- Media Stitching API
+
+
+## Templates for your video
+### Adobe After Effects Plugin
 
 ## Sourcing the video
 Your videoStudio should offer 2 primary methods of sourcing their video. To record directly from within the application or to allow direct media uploads from within the application. 
@@ -54,8 +60,15 @@ Developer Guide to Kaltura media upload: https://developer.kaltura.com/workflows
 
 ## Producing the Video
 
-### Adobe After Effects Plugin
 ### Kaltura Lottie Animation Plugin
+The plugin will support animation, texts, and personalized text in your video. The plugin will read 2 required json files. The "individeo-config.composed.js" and the "video_en-CA.js" files. These files are processed by the plugin to render the animation and texts
+
+Entries will have related files attachments with the following tags: 
+- individeo-config.composed.js: “individeo-config” tag 
+- video_en-CA.js: “individeo-animation” tag 
+
+Lottie:https://github.com/TVThieu0402/VideoStudio/blob/32b3626d8bbf15ad0905b0661157686fdc3ccafc/LottiePersonalization.md
+
 ### Media Stitching API
 <img width="485" height="266" alt="Screenshot 2026-10-22 at 1 05 03 PM" src="https://github.com/user-attachments/assets/8bccd9fb-0027-497d-9068-4e61501f4c88" />
 
