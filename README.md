@@ -15,6 +15,7 @@ Kaltura has many components across different use cases and industries. The archi
 * Producing the video
 * Managing and Editing the video
 * Sharing the video
+* Enrich your video
 
 **List of referenced components and APIs powered by Kaltura**
 
@@ -23,7 +24,7 @@ Components
 - Kaltura Recorder v2.0
 - Kaltura V7 Player
 - Kaltura Lottie Animation plugin
-- Kaltura Adobe After Affects plugin 
+
 
 APIs
 - Upload Media
@@ -35,6 +36,9 @@ APIs
 - Media Stitching API
 - Flatten Video API
 
+Other Services
+- Enrichment Services (captions, translations)
+- Kaltura Adobe After Affects plugin 
 
 ## Templates for your video
 ### Adobe After Effects Plugin
@@ -127,4 +131,6 @@ Kaltura offers an API to grab the source video thru a download
 Knowledge Center: https://knowledge.kaltura.com/help/how-to-download-a-raw-file
 
 ### MP4 Export Flat video
+
+## Enrich your video
 
