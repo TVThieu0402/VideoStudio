@@ -67,7 +67,7 @@ Entries will have related files attachments with the following tags:
 - individeo-config.composed.js: “individeo-config” tag 
 - video_en-CA.js: “individeo-animation” tag 
 
-Lottie:https://github.com/TVThieu0402/VideoStudio/blob/32b3626d8bbf15ad0905b0661157686fdc3ccafc/LottiePersonalization.md
+Lottie: https://github.com/TVThieu0402/VideoStudio/blob/32b3626d8bbf15ad0905b0661157686fdc3ccafc/LottiePersonalization.md
 
 ### Media Stitching API
 <img width="485" height="266" alt="Screenshot 2026-10-22 at 1 05 03 PM" src="https://github.com/user-attachments/assets/8bccd9fb-0027-497d-9068-4e61501f4c88" />
