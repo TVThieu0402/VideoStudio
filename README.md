@@ -33,6 +33,7 @@ APIs
 - Add Playlist
 - Update Playlist
 - Media Stitching API
+- Flatten Video API
 
 
 ## Templates for your video
