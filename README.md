@@ -30,6 +30,7 @@ APIs
 - Update Media
 - Add Playlist
 - Update Playlist
+- Media Stitching API 
 
 ## Sourcing the video
 Your videoStudio should offer 2 primary methods of sourcing their video. To record directly from within the application or to allow direct media uploads from within the application. 
@@ -55,6 +56,13 @@ Developer Guide to Kaltura media upload: https://developer.kaltura.com/workflows
 
 ### Adobe After Effects Plugin
 ### Kaltura Lottie Animation Plugin
+### Media Stitching
+<img width="485" height="266" alt="Screenshot 2026-10-22 at 1 05 03 PM" src="https://github.com/user-attachments/assets/8bccd9fb-0027-497d-9068-4e61501f4c88" />
+
+Kaltura offers a backend API service to combine (aka stitch) multiple entries into a single entry. The following steps will be required:
+1. "Gather list of media assets to stitch" The application needs to obtain and list all Kaltura entries that will be stitched together. The service will require the Kaltura Entry ID object to be listed.
+2. "Create a draft entry". This draft palceholder entry will be the new media that is the combined version of all the entries
+3. "Run Media Stitching BE service". This BE service will combine all the videos in sequential order 
 
 ## Managing and Editing the Video
 
