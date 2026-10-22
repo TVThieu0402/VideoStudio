@@ -136,3 +136,5 @@ Knowledge Center: https://knowledge.kaltura.com/help/how-to-download-a-raw-file
 
 ## Enrich your video
 
+### Captions and Translation services
+
