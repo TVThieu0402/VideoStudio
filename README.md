@@ -74,7 +74,7 @@ Lottie:https://github.com/TVThieu0402/VideoStudio/blob/32b3626d8bbf15ad0905b0661
 
 Kaltura offers a backend API service to combine (aka stitch) multiple entries into a single entry. The following steps will be required:
 1. "Gather list of media assets to stitch" The application needs to obtain and list all Kaltura entries that will be stitched together. The service will require the Kaltura Entry ID object to be listed.
-2. "Create a draft entry". This draft palceholder entry will be the new media that is the combined version of all the entries
+2. "Create a draft entry". This draft placeholder entry will be the new media that is the combined version of all the entries
 3. "Run Media Stitching BE service". This BE service will combine all the videos in sequential order 
 
 Media Stitching API and other related BE services can be found here: [MediaStitchingAPI.md](https://github.com/TVThieu0402/VideoStudio/blob/6e7125638c188e35494f2a21873652f5cc45d268/MediaStitchingAPI.md)
