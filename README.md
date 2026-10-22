@@ -43,6 +43,8 @@ Other Services
 ## Templates for your video
 ### Adobe After Effects Plugin
 
+### Template Management
+
 ## Sourcing the video
 Your videoStudio should offer 2 primary methods of sourcing their video. To record directly from within the application or to allow direct media uploads from within the application. 
 
