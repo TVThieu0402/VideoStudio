@@ -113,6 +113,10 @@ Knowledge Center: https://knowledge.kaltura.com/help/how-to-download-a-raw-file
 
 ### MP4 Export Flat video
 
+## Enrich your video
+
+### Captions and Translation services
+
 # Appendix
 **List of referenced components and APIs powered by Kaltura**
 
@@ -137,7 +141,5 @@ Other Services
 - Enrichment Services (captions, translations)
 - Kaltura Adobe After Affects plugin 
 
-## Enrich your video
 
-### Captions and Translation services
 
