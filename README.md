@@ -17,28 +17,7 @@ Kaltura has many embeddable components, API endpoints, integrations used across 
 * Sharing the video
 * Enrich your video
 
-**List of referenced components and APIs powered by Kaltura**
 
-Components
-- Kaltura Editor App
-- Kaltura Recorder v2.0
-- Kaltura V7 Player
-- Kaltura Lottie Animation plugin
-
-
-APIs
-- Upload Media
-- Download Media
-- Update Media
-- List Media
-- Add Playlist
-- Update Playlist
-- Media Stitching API
-- Flatten Video API
-
-Other Services
-- Enrichment Services (captions, translations)
-- Kaltura Adobe After Affects plugin 
 
 ## Templates for your video
 ### Adobe After Effects Plugin
@@ -133,6 +112,30 @@ Kaltura offers an API to grab the source video thru a download
 Knowledge Center: https://knowledge.kaltura.com/help/how-to-download-a-raw-file
 
 ### MP4 Export Flat video
+
+# Appendix
+**List of referenced components and APIs powered by Kaltura**
+
+Components
+- Kaltura Editor App
+- Kaltura Recorder v2.0
+- Kaltura V7 Player
+- Kaltura Lottie Animation plugin
+
+
+APIs
+- Upload Media
+- Download Media
+- Update Media
+- List Media
+- Add Playlist
+- Update Playlist
+- Media Stitching API
+- Flatten Video API
+
+Other Services
+- Enrichment Services (captions, translations)
+- Kaltura Adobe After Affects plugin 
 
 ## Enrich your video
 
