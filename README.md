@@ -21,12 +21,12 @@ An admin appToken for accessing the Kaltura API. see https://developer.kaltura.c
 ## videoStudio Architecture
 Kaltura has many embeddable components, API endpoints, integrations used across different use cases and industries. The architecture and tech stack referenced here are baseline recommendations to build your videoStudio. The baseline of a videoStudio should have the following capabilities at a high level:
 
-Templates for your video
-Sourcing the video
-Producing the video
-Managing and Editing the video
-Sharing the video
-Enrich your video
+* Templates for your video
+* Sourcing the video
+* Producing the video
+* Managing and Editing the video
+* Sharing the video
+* Enrich your video
 
 ## Kaltura Building Blocks
 ### Templates
