@@ -126,6 +126,7 @@ Components
 - Kaltura V7 Player
 - Kaltura Lottie Animation plugin
 - Timeline
+- Custom Editor
 - Template Management
 
 
