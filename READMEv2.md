@@ -36,8 +36,10 @@ In Progress :construction:
 Your videoStudio should offer 2 primary methods of sourcing their video. To record directly from within the application or to allow direct media uploads from within the application.
 
 
-| Kaltura Express Recorder v2.0 | Recording web component with numerous configurations |
+
+|                               |                                                      |
 |-------------------------------|------------------------------------------------------|
+| Kaltura Express Recorder v2.0 | Recording web component with numerous configurations |
 | Kaltura Media API             | Media API for uploading content                      |
 
 ### Producing
