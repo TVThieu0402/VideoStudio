@@ -139,6 +139,7 @@ APIs
 - Update Playlist
 - Media Stitching API
 - Flatten Video API
+- Scripts
 
 Other Services
 - Enrichment Services (captions, translations)
