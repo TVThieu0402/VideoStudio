@@ -72,8 +72,30 @@ In Progress :construction:
   </tr>
 </tbody>
 </table>
+
 ### Sharing
 In Progress :construction:
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6a0s"><a href="https://developer.kaltura.com/player/web/getting-started-web" target="_blank" rel="noopener noreferrer">Kaltura V7 Player</a></td>
+    <td class="tg-6a0s">Modern HTML5 media player </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://knowledge.kaltura.com/help/how-to-download-a-raw-file" target="_blank" rel="noopener noreferrer">Kaltura Media Download</a></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"> API endpoint to download source video</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 
 ### Enriching
 In Progress :construction:
