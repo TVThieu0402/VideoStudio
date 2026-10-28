@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/34098231/README.md)
-# Unisphere - Kaltura Express Recorder 2.0
+# Kaltura Express Recorder 2.0
 
 A browser-based recorder that captures video, audio and screen shares, lets the user
 review the result, and uploads it to Kaltura — with no plugins, extensions or installs:
