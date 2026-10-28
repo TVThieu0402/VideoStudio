@@ -6,11 +6,7 @@ The videoStudio is defined as a solution that allows a user to record, add text 
 ## Content
 
 - [Pre-requisites](#Pre-requisites)
-  - [Installation with GHC](#installation-with-ghc)
-    - [Pre-requisites](#pre-requisites)
-    - [Compilation](#compilation)
-  - [Installation with MicroHs](#installation-with-microhs)
-- [Examples](#examples)
+- [videoStudio Architecture](#videoStudio Architecture)
 - [Related projects](#related-projects)
   - [Games and applications](#games-and-applications)
   - [Use in industry](#use-in-industry)
