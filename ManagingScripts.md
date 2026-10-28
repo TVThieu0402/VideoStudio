@@ -82,7 +82,8 @@ Data Entry Object Example
   "votes": 0,
   "dataContent": "",
   "retrieveDataContentByGet": true
-} ```
+```
+<br>
 
 ## Recommended Actions
 
