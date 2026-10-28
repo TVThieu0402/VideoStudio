@@ -59,8 +59,19 @@ In Progress :construction:
 
 ### Managing and Editing
 In Progress :construction:
-* [Kaltura Editor Application](https://github.com/TVThieu0402/VideoStudio/blob/9ace4367b2732aad08e4579048639998355b57f3/ExpressRecorder2.0.md): Kaltura Express Recorder v2.0 Component
-
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6a0s"><a href="https://github.com/kaltura-vpaas/kaltura-editor-app-embed" target="_blank" rel="noopener noreferrer">Kaltura Editor Application</a></td>
+    <td class="tg-6a0s">Tool to allow users to clip and trim content. Also supports adding hotspots and quizzing</td>
+  </tr>
+</tbody>
+</table>
 ### Sharing
 In Progress :construction:
 
