@@ -1,4 +1,7 @@
 
+<img width="485" height="266" alt="Screenshot 2026-10-22 at 9 44 06 AM" src="https://github.com/user-attachments/assets/c25bd9d9-f7d1-4ed9-a85d-e9b146af14e0" />
+
+
 # Kaltura Express Recorder 2.0
 
 A browser-based recorder that captures video, audio and screen shares, lets the user
