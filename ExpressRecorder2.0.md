@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34098231/README.md)
+
 # Kaltura Express Recorder 2.0
 
 A browser-based recorder that captures video, audio and screen shares, lets the user
