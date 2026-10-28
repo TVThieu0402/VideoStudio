@@ -46,6 +46,8 @@ Developers Guide: https://developer.kaltura.com/workflows/Ingest_and_Upload_Medi
 
 ## Producing the Video
 
+### Scripts
+
 ### Kaltura Lottie Animation Plugin
 The plugin will support animation, texts, and personalized text in your video. The plugin will read 2 required json files. The "individeo-config.composed.js" and the "video_en-CA.js" files. These files are processed by the plugin to render the animation and texts
 
