@@ -41,9 +41,7 @@ embedding page never pins a build of its own.
 
 ## Recorder API
 
-The host-facing surface of the recorder runtime. Every entry below is declared in
-[`runtime-types.ts`](./unisphere/packages/kaltura-corp/types/src/lib/recorder-runtime/runtime-types.ts) —
-treat that file as the source of truth and this section as its guide.
+
 
 ### Settings
 
