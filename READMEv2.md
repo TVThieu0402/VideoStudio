@@ -36,8 +36,9 @@ In Progress :construction:
 Your videoStudio should offer 2 primary methods of sourcing their video. To record directly from within the application or to allow direct media uploads from within the application.
 
 
-* [Kaltura Express Recorder v2.0](https://github.com/TVThieu0402/VideoStudio/blob/9ace4367b2732aad08e4579048639998355b57f3/ExpressRecorder2.0.md): Kaltura Express Recorder v2.0 Component
-* [Kaltura Media Upload](https://developer.kaltura.com/workflows/Ingest_and_Upload_Media/Uploading_Media_Files;step=intro): Kaltura Media API
+| Kaltura Express Recorder v2.0 | Recording web component with numerous configurations |
+|-------------------------------|------------------------------------------------------|
+| Kaltura Media API             | Media API for uploading content                      |
 
 ### Producing
 In Progress :construction:
