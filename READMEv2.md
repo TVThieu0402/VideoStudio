@@ -35,12 +35,32 @@ In Progress :construction:
 ### Sourcing 
 Your videoStudio should offer 2 primary methods of sourcing their video. To record directly from within the application or to allow direct media uploads from within the application.
 
-
-
-|                               |                                                      |
-|-------------------------------|------------------------------------------------------|
-| Kaltura Express Recorder v2.0 | Recording web component with numerous configurations |
-| Kaltura Media API             | Media API for uploading content                      |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-6a0s{border-color:inherit;border-width:1px;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6a0s"><a href="https://github.com/TVThieu0402/VideoStudio/blob/9ace4367b2732aad08e4579048639998355b57f3/ExpressRecorder2.0.md" target="_blank" rel="noopener noreferrer">Kaltura Express Recorder v2.0</a></td>
+    <td class="tg-6a0s">Recording web component with numerous configurations</td>
+  </tr>
+  <tr>
+    <td class="tg-6a0s"><a href="https://developer.kaltura.com/workflows/Ingest_and_Upload_Media/Uploading_Media_Files;step=intro" target="_blank" rel="noopener noreferrer">Kaltura Media API</a></td>
+    <td class="tg-6a0s">Media API for uploading content</td>
+  </tr>
+</tbody>
+</table>
 
 ### Producing
 In Progress :construction:
