@@ -125,6 +125,7 @@ Components
 - Kaltura Recorder v2.0
 - Kaltura V7 Player
 - Kaltura Lottie Animation plugin
+- Timeline
 
 
 APIs
