@@ -33,7 +33,7 @@ Your videoStudio should offer 2 primary methods of sourcing their video. To reco
 
 Kaltura offers the Kaltura Recorder v2.0 component that can be embedded within your application. It is a ready to use embeddable recording component with numerous configuration options and runtime settings. 
 
-Git: https://github.com/kaltura/unisphere-recorder/tree/main
+Git: [https://github.com/kaltura/unisphere-recorder/tree/main](https://github.com/TVThieu0402/VideoStudio/blob/9ace4367b2732aad08e4579048639998355b57f3/ExpressRecorder2.0.md)
 
 ### Kaltura Media Upload API
 
