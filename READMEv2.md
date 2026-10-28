@@ -7,22 +7,13 @@ The videoStudio is defined as a solution that allows a user to record, add text 
 
 - [Pre-requisites](#Pre-requisites)
 - [videoStudio Architecture](#videoStudio-Architecture)
-- [Related projects](#related-projects)
-  - [Games and applications](#games-and-applications)
-  - [Use in industry](#use-in-industry)
-  - [Backends](#backends)
-  - [Testing](#testing)
-  - [Other projects](#other-projects)
-- [Documentation](#documentation)
-  - [API documentation and tutorials](#api-documentation-and-tutorials)
-  - [Publications](#publications)
-- [Contributions](#contributions)
-  - [Discussions, issues and pull requests](#discussions-issues-and-pull-requests)
-  - [Structure and internals](#structure-and-internals)
-  - [Style](#style)
-  - [Version control](#version-control)
-  - [Versioning model](#versioning-model)
-- [History](#history)
+- [Building Blocks](#Kaltura-Building-Blocks)
+  - [Templates](#Templates)
+  - [Sourcing](#Sourcing)
+  - [Producing](#Producing)
+  - [Managing and Editing](#Managing-and-Editing)
+  - [Sharing](#Sharing)
+  - [Enriching](#Enriching)
 
 ## Pre-requisites
 An admin appToken for accessing the Kaltura API. see https://developer.kaltura.com/api-docs/VPaaS-API-Getting-Started/Getting-Started-VPaaS-API.html for guides and general reference on using the Kaltura API, including access to Client Libraries in a number of languages. While there are other methods, Kaltura strongly encourages the use of appTokens for authenticating to the API. This guide assumes you are already familiar with authenticating to the Kaltura API and making calls.
@@ -36,3 +27,27 @@ Producing the video
 Managing and Editing the video
 Sharing the video
 Enrich your video
+
+## Kaltura Building Blocks
+### Templates
+In Progress :construction:
+
+### Sourcing 
+Your videoStudio should offer 2 primary methods of sourcing their video. To record directly from within the application or to allow direct media uploads from within the application.
+
+
+* [Kaltura Express Recorder v2.0](https://github.com/TVThieu0402/VideoStudio/blob/9ace4367b2732aad08e4579048639998355b57f3/ExpressRecorder2.0.md): Kaltura Express Recorder v2.0 Component
+* [Kaltura Media Upload](https://developer.kaltura.com/workflows/Ingest_and_Upload_Media/Uploading_Media_Files;step=intro): Kaltura Media API
+
+### Producing
+In Progress :construction:
+
+### Managing and Editing
+In Progress :construction:
+* [Kaltura Editor Application](https://github.com/TVThieu0402/VideoStudio/blob/9ace4367b2732aad08e4579048639998355b57f3/ExpressRecorder2.0.md): Kaltura Express Recorder v2.0 Component
+
+### Sharing
+In Progress :construction:
+
+### Enriching
+In Progress :construction:
