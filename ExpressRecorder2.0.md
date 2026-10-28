@@ -295,5 +295,4 @@ both save modes, before any upload. A session cancelled during the countdown sen
 Messages are addressed to the origin the host declared when framing the recorder
 (`?parentOrigin=https://its.host`, the same parameter the loader page uses to validate
 inbound messages), falling back to `*` when that is absent. Nothing is posted when the
-recorder is not framed. See [docs/host-iframe-messages.md](docs/host-iframe-messages.md)
-for the full protocol and a host-side listener.
+recorder is not framed. 
