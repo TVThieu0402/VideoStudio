@@ -29,7 +29,7 @@ Kaltura has many embeddable components, API endpoints, integrations used across 
 * Enrich your video
 
 ## Kaltura Building Blocks
-:large_blue_diamond: Embeddable Web Component
+:large_blue_diamond: Embeddable Web Component <br>
 :small_orange_diamond: API Endpoint 
 
 
