@@ -11,7 +11,7 @@ The videoStudio is defined as a solution that allows a user to record, add text 
   - [Templates](#Templates) (After Effects Plugin, Template Management)
   - [Sourcing](#Sourcing) (Recording and Uploading) 
   - [Producing](#Producing) (Storyboard) 
-  - [Managing and Editing](#Managing-and-Editing) (APIs, Trim and Crop) 
+  - [Managing and Editing](#Managing-and-Editing) (Asset Management APIs, Trim and Crop) 
   - [Sharing](#Sharing) (Landing Page, Downloads, Exporting) 
   - [Enriching](#Enriching) (Captions Ordering, Captions Editing, Accessibility) 
 
