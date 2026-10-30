@@ -29,6 +29,10 @@ Kaltura has many embeddable components, API endpoints, integrations used across 
 * Enrich your video
 
 ## Kaltura Building Blocks
+:large_blue_diamond: Embeddable Web Component
+:small_orange_diamond: API Endpoint 
+
+
 ### Templates
 In Progress :construction:
 
@@ -44,12 +48,12 @@ Your videoStudio should offer 2 primary methods of sourcing their video. To reco
 </thead>
 <tbody>
   <tr>
-    <td class="tg-6a0s"><a href="https://github.com/TVThieu0402/VideoStudio/blob/9ace4367b2732aad08e4579048639998355b57f3/ExpressRecorder2.0.md" target="_blank" rel="noopener noreferrer">Kaltura Express Recorder v2.0</a></td>
+    <td class="tg-6a0s"><a href="https://github.com/TVThieu0402/VideoStudio/blob/9ace4367b2732aad08e4579048639998355b57f3/ExpressRecorder2.0.md" target="_blank" rel="noopener noreferrer"> :large_blue_diamond: Kaltura Express Recorder v2.0</a></td>
     <td class="tg-6a0s">Recording web component with numerous configurations</td>
   </tr>
   <tr>
     <td class="tg-6a0s"><a href="https://developer.kaltura.com/workflows/Ingest_and_Upload_Media/Uploading_Media_Files;step=intro" target="_blank" rel="noopener noreferrer">Kaltura Media API</a></td>
-    <td class="tg-6a0s">Media API for uploading content</td>
+    <td class="tg-6a0s">:small_orange_diamond: Media API for uploading content</td>
   </tr>
 </tbody>
 </table>
@@ -67,7 +71,7 @@ In Progress :construction:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-6a0s"><a href="https://github.com/kaltura-vpaas/kaltura-editor-app-embed" target="_blank" rel="noopener noreferrer">Kaltura Editor Application</a></td>
+    <td class="tg-6a0s"><a href="https://github.com/kaltura-vpaas/kaltura-editor-app-embed" target="_blank" rel="noopener noreferrer">:large_blue_diamond: Kaltura Editor Application</a></td>
     <td class="tg-6a0s">Tool to allow users to clip and trim content. Also supports adding hotspots and quizzing</td>
   </tr>
 </tbody>
@@ -83,12 +87,12 @@ In Progress :construction:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-6a0s"><a href="https://developer.kaltura.com/player/web/getting-started-web" target="_blank" rel="noopener noreferrer">Kaltura V7 Player</a></td>
+    <td class="tg-6a0s"><a href="https://developer.kaltura.com/player/web/getting-started-web" target="_blank" rel="noopener noreferrer">:large_blue_diamond: Kaltura V7 Player</a></td>
     <td class="tg-6a0s">Modern HTML5 media player </td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="https://knowledge.kaltura.com/help/how-to-download-a-raw-file" target="_blank" rel="noopener noreferrer">Kaltura Media Download</a></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"> API endpoint to download source video</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">:small_orange_diamond: API endpoint to download source video</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
@@ -107,7 +111,7 @@ In Progress :construction:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-6a0s"><a href="https://github.com/kaltura-vpaas/kaltura-editor-app-embed" target="_blank" rel="noopener noreferrer">Kaltura Captions Editor Component</a></td>
+    <td class="tg-6a0s"><a href="https://github.com/kaltura-vpaas/kaltura-editor-app-embed" target="_blank" rel="noopener noreferrer">:large_blue_diamond: Kaltura Captions Editor Component</a></td>
     <td class="tg-6a0s">Users can create, edit, and time captions directly in the browser.</td>
   </tr>
 </tbody>
