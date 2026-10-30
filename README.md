@@ -52,8 +52,8 @@ Your videoStudio should offer 2 primary methods of sourcing their video. To reco
     <td class="tg-6a0s">Recording web component with numerous configurations</td>
   </tr>
   <tr>
-    <td class="tg-6a0s"><a href="https://developer.kaltura.com/workflows/Ingest_and_Upload_Media/Uploading_Media_Files;step=intro" target="_blank" rel="noopener noreferrer">Kaltura Media API</a></td>
-    <td class="tg-6a0s">:small_orange_diamond: Media API for uploading content</td>
+    <td class="tg-6a0s"><a href="https://developer.kaltura.com/workflows/Ingest_and_Upload_Media/Uploading_Media_Files;step=intro" target="_blank" rel="noopener noreferrer">:small_orange_diamond: Kaltura Media API</a></td>
+    <td class="tg-6a0s">Media API for uploading content</td>
   </tr>
 </tbody>
 </table>
@@ -91,8 +91,8 @@ In Progress :construction:
     <td class="tg-6a0s">Modern HTML5 media player </td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="https://knowledge.kaltura.com/help/how-to-download-a-raw-file" target="_blank" rel="noopener noreferrer">Kaltura Media Download</a></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">:small_orange_diamond: API endpoint to download source video</span></td>
+    <td class="tg-0lax"><a href="https://knowledge.kaltura.com/help/how-to-download-a-raw-file" target="_blank" rel="noopener noreferrer">:small_orange_diamond: Kaltura Media Download</a></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">API endpoint to download source video</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
