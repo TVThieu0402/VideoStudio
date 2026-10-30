@@ -99,3 +99,16 @@ In Progress :construction:
 
 ### Enriching
 In Progress :construction:
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6a0s"><a href="https://github.com/kaltura-vpaas/kaltura-editor-app-embed" target="_blank" rel="noopener noreferrer">Kaltura Captions Editor Component</a></td>
+    <td class="tg-6a0s">Users can create, edit, and time captions directly in the browser.</td>
+  </tr>
+</tbody>
+</table>
