@@ -8,12 +8,12 @@ The videoStudio is defined as a solution that allows a user to record, add text 
 - [Pre-requisites](#Pre-requisites)
 - [videoStudio Architecture](#videoStudio-Architecture)
 - [Building Blocks](#Kaltura-Building-Blocks)
-  - [Templates](#Templates)
-  - [Sourcing](#Sourcing)
-  - [Producing](#Producing)
-  - [Managing and Editing](#Managing-and-Editing)
-  - [Sharing](#Sharing)
-  - [Enriching](#Enriching)
+  - [Templates](#Templates) (After Effects Plugin, Template Management)
+  - [Sourcing](#Sourcing) (Recording and Uploading) 
+  - [Producing](#Producing) (Storyboard) 
+  - [Managing and Editing](#Managing-and-Editing) (APIs, Trim and Crop) 
+  - [Sharing](#Sharing) (Landing Page, Downloads, Exporting) 
+  - [Enriching](#Enriching) (Captions Ordering, Captions Editing, Accessibility) 
 
 ## Pre-requisites
 An admin appToken for accessing the Kaltura API. see https://developer.kaltura.com/api-docs/VPaaS-API-Getting-Started/Getting-Started-VPaaS-API.html for guides and general reference on using the Kaltura API, including access to Client Libraries in a number of languages. While there are other methods, Kaltura strongly encourages the use of appTokens for authenticating to the API. This guide assumes you are already familiar with authenticating to the Kaltura API and making calls.
