@@ -2,7 +2,8 @@
 <img width="485" height="266" alt="Screenshot 2026-10-22 at 9 44 06 AM" src="https://github.com/user-attachments/assets/c25bd9d9-f7d1-4ed9-a85d-e9b146af14e0" />
 
 
-# Kaltura Express Recorder 2.0
+
+# Unisphere - Kaltura Recorder
 
 A browser-based recorder that captures video, audio and screen shares, lets the user
 review the result, and uploads it to Kaltura — with no plugins, extensions or installs:
@@ -43,7 +44,6 @@ embedding page never pins a build of its own.
 ---
 
 ## Recorder API
-
 
 
 ### Settings
@@ -120,7 +120,7 @@ Providing a value has one of three effects on the settings menu:
 | `resolution` | `'4K' \| '2K' \| 'FHD' \| 'HD' \| 'SD'` | Capture resolution (3840×2160, 2560×1440, 1920×1080, 1280×720, 640×480; portrait swaps them). **Pre-fills the resolution control, which stays editable**, over the user's saved choice. Forced instead while `hideVideoSettings` is `true`. A resolution the camera cannot deliver falls back silently. |
 | `frameRate` | `24 \| 25 \| 30 \| 50 \| 60` | Capture frame rate, as a number. **Pre-fills the frame rate control, which stays editable**, over the user's saved choice. Forced instead while `hideVideoSettings` is `true`. A string such as `"30"` is ignored with a warning. |
 | `videoFormat` | `'webm-vp9' \| 'webm-av1' \| 'webm-h264' \| 'mp4-h264' \| 'mp4-h265' \| 'mp4-vp9' \| 'mp4-av1'` | Recording container and codec. **Pre-fills the format control, which stays editable**, over the user's saved choice. Forced instead while `hideVideoSettings` is `true`. A format this browser cannot record is passed over **with a console warning, not a user message**: the user's saved choice applies if the control is visible, the default format if hidden. There is no `webm-h265`. |
-| `framingAssistance` | `boolean` | Positioning-guide overlay. Default off. |
+| `framingAssistance` | `boolean` | Framing guide over the camera preview during setup: dashed margin lines 20% in from each side with an eye-level line in landscape, 8% from the top and 20% from the bottom in portrait. A static guide: it does not detect where the user is. Never part of the recording. Default off. |
 | `lightingAssistance` | `boolean` | Lighting indicator. Default off. |
 | `audioLevelFeedback` | `boolean` | Microphone level meter. Default off. |
 | `echoCancellation` | `boolean` | Echo cancellation on the captured microphone. Default on. Ignored where the browser cannot honour the constraint. |
